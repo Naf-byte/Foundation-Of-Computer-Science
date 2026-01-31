@@ -70,9 +70,13 @@ All analysis and logic were fully reviewed and understood, with explanations pro
 ## 📁 Repository Structure
 Trending-YouTube-Analysis/
 │
+
 ├── README.md
+
 ├── Project_Notebook.ipynb
+
 └── data/
+
 ├── *.csv
 └── *.json
 
