@@ -1,6 +1,6 @@
-# 📊 Trending YouTube Videos Analysis (2025–26 Project)
+# Trending YouTube Videos Analysis (2025–26 Project)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes the **Trending YouTube Videos dataset** across multiple countries.  
 The goal is to perform data cleaning, transformation, aggregation, and exploratory analysis using **Python and Jupyter Notebook**, following the requirements of the 2025–26 course project.
 
@@ -13,7 +13,7 @@ The project demonstrates practical skills in:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Python**
 - **Jupyter Notebook**
 - **Pandas**
@@ -22,7 +22,7 @@ The project demonstrates practical skills in:
 
 ---
 
-## 📂 Dataset Description
+## Dataset Description
 The dataset consists of:
 - Multiple **CSV files**, each representing trending YouTube videos for a specific country  
 - Multiple **JSON files** containing video category mappings  
@@ -37,7 +37,7 @@ Each CSV file includes information such as:
 
 ---
 
-## 📑 Project Tasks & Implementation
+## Project Tasks & Implementation
 
 1. Created a single DataFrame by concatenating all CSV files and added a `country` column.
 2. Extracted all videos with no tags.
@@ -57,7 +57,7 @@ Each CSV file includes information such as:
 
 ---
 
-## 🤖 Use of AI Tools
+## Use of AI Tools
 AI tools were used to assist with:
 - Understanding dataset structure  
 - Clarifying Pandas operations  
